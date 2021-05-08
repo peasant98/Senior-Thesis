@@ -1,4 +1,7 @@
 # Matt Strong's Senior Thesis
+
+<img src="imgs/SUs_Contact.jpg" alt="A human about to make contact with a manipulator" width="500"/>
+
 My Senior Thesis for my BS in Computer Science, entitled "Enabling Close Proximity Human Robot Collaboration via Distributed, Self-
 Calibrating Robotic Skin". 
 

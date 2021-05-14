@@ -2,8 +2,7 @@
 
 <img src="imgs/SUs_Contact.jpg" alt="A human about to make contact with a manipulator" width="500"/>
 
-My Senior Thesis for my BS in Computer Science, entitled "Enabling Close Proximity Human Robot Collaboration via Distributed, Self-
-Calibrating Robotic Skin". 
+My Senior Thesis for my BS in Computer Science, entitled "Enabling Close Proximity Human Robot Collaboration via Distributed, Self-Calibrating Robotic Skin". 
 
 The goal of this repo is to a). show my work and b). serve as a potential example for others doing their undergraduate thesis.
 
